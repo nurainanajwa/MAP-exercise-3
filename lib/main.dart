@@ -5,12 +5,11 @@
 //? Exercise 3: Navigation and Routing
 
 // Date: 12 December 2021
-// Member 1's Name:    Section: _____   Location: ____________ (i.e. where are you currently located)
-// Member 2's Name: _____________    Section: _____   Location: ____________
-
+// Member 1's Name: Nuraina Najwa binti Mohd Rauzi   Section: 02  Location: Gombak, Selangor (i.e. where are you currently located)
+// Member 2's Name: Nur Ainaa Najihah Binti Azizan    Section: 02   Location: Sungai Petani, Kedah
 // Log the time(s) your pair programming sessions
 //  Date         Time (From)   To             Duration (in minutes)
-//  _________    ___________   ___________    ________
+//  12/12/2021    12:39 a.m   ___________    ________
 //  _________    ___________   ___________    ________
 //  _________    ___________   ___________    ________
 
