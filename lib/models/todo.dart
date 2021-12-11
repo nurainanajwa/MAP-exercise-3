@@ -7,7 +7,7 @@ class Todo {
     List<Task>tasks;
 
     Todo({this.title, this.tasks});
-    Todo.copy(Todo from) : this(title: from.title, tasks...from.tasks);
+    Todo.copy(Todo from) : this(title: from.title, tasks:[...from.tasks]);
 
     int totalTasks(){
         return tasks.length;
