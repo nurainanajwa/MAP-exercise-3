@@ -5,7 +5,7 @@
 //? Exercise 3: Navigation and Routing
 
 // Date: 12 December 2021
-// Member 1's Name: ________    Section: _____   Location: ____________ (i.e. where are you currently located)
+// Member 1's Name:    Section: _____   Location: ____________ (i.e. where are you currently located)
 // Member 2's Name: _____________    Section: _____   Location: ____________
 
 // Log the time(s) your pair programming sessions
